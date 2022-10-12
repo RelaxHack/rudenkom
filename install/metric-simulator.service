@@ -1,0 +1,20 @@
+[Unit]
+Description=Metric Simulator
+
+[Service]
+Type=simple
+RemainAfterExit=true
+
+# Service start
+# Path will be added automatically
+ExecStart=
+
+# Service stop
+# Path will be added automatically
+ExecStop=
+
+# Service restart
+# Path will be added automatically
+ExecReload=
+
+[Install]
